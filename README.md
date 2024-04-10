@@ -23,3 +23,7 @@ Ensure you have the following dependencies installed:
 - Matplotlib
 - Seaborn
 - Jupyter Notebook
+
+### **Contributors**
+
+- Smit Patel
